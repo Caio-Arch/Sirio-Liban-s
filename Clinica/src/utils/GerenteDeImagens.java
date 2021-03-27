@@ -14,10 +14,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileFilter;
 
-/**
- *
- * @author Otavio Costa
- */
+
 public class GerenteDeImagens {
 
     private String urlImagem = "";
